@@ -13,7 +13,11 @@ These scenarios are all outlined in the [paper]() describing this study.
 
 ## How to run a scenario
 1. Please follow the GenX installation instructions found [here](https://github.com/Grid-modeling-TES/GenX.jl). We used Julia 1.6.7 and can't guarantee our GenX fork will work with any other Julia version.
-2. To run a specific scenario in Julia, you have the option between a free solver (HiGHs) or a commercial solver (CPLEX), the latter of which requires a license to operate. We recommend using CPLEX because of the computational complexity of the model.
+2. Launch Julia and activate GenX:
+   ```
+   activate "<path-to-GenX>/GenX.jl"
+   ```
+4. To run a specific scenario in Julia, you have the option between a free solver (HiGHs) or a commercial solver (CPLEX), the latter of which requires a license to operate. We recommend using CPLEX because of the computational complexity of the model.
   - To run the $1/W, $8/MMBTu scenario in ERCOT using CPLEX, launch Julia and enter the command:
     ```
     include("<path-to-input-data/Inputs/ERCOT/1w_8mmbtu/Run.jl)
