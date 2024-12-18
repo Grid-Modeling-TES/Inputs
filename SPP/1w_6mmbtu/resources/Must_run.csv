@@ -1,0 +1,5 @@
+Resource,Zone,New_Build,Existing_Cap_MW,Max_Cap_MW,Min_Cap_MW,Inv_Cost_per_MWyr,Fixed_OM_Cost_per_MWyr,Var_OM_Cost_per_MWh,Heat_Rate_MMBTU_per_MWh,Fuel,Cap_Size,Start_Cost_per_MW,Start_Fuel_MMBTU_per_MW,Up_Time,Down_Time,Ramp_Up_Percentage,Ramp_Dn_Percentage,Hydro_Energy_to_Power_Ratio,Min_Power,Reg_Max,Rsv_Max,Reg_Cost,Rsv_Cost,region,cluster,Commit,CapRes_1
+SPP_N_biomass_1,1,0,11.7,0,0,0,150850,4.82,11.22,None,1.07,0,0,0,0,1,1,0,0.581,0,0,0,0,SPP_N,1,1,0.9
+SPP_NEBR_biomass_1,2,0,17.2,0,0,0,150850,4.7,10.95,None,1.23,0,0,0,0,1,1,0,0.679,0,0,0,0,SPP_NEBR,1,1,0.9
+SPP_WAUE_biomass_1,4,0,1.3,0,0,0,150850,3.96,9.21,None,1.3,0,0,0,0,1,1,0,0,0,0,0,0,SPP_WAUE,1,1,0.9
+SPP_WEST_biomass_1,5,0,45.5,0,0,0,150850,4.03,9.37,None,2.84,0,0,0,0,1,1,0,0.014,0,0,0,0,SPP_WEST,1,1,0.9

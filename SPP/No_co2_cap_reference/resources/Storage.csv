@@ -1,0 +1,12 @@
+Resource,Zone,Model,New_Build,Can_Retire,Existing_Cap_MW,Existing_Cap_MWh,Min_Cap_MW,Min_Cap_MWh,Inv_Cost_per_MWyr,Inv_Cost_per_MWhyr,Fixed_OM_Cost_per_MWyr,Fixed_OM_Cost_per_MWhyr,Var_OM_Cost_per_MWh,Var_OM_Cost_per_MWh_In,Self_Disch,Eff_Up,Eff_Down,Min_Duration,Max_Duration,region,cluster,CapRes_1,Heat_Rate_MMBTU_per_MWh,Fuel,Cap_Size
+SPP_N_batteries_1,1,1,0,0,2.2,5.5,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,SPP_N,1,0,9.72,None,1.1
+SPP_NEBR_batteries_1,2,1,0,0,3.9,11.1,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,SPP_NEBR,1,0,9.21,None,0.98
+SPP_SPS_batteries_1,3,1,0,0,200,800,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,SPP_SPS,1,0,9.21,None,200
+SPP_WAUE_batteries_1,4,1,0,0,0.8,3.2,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,SPP_WAUE,1,0,10.34,None,0.8
+SPP_WEST_batteries_1,5,1,0,0,22,46.2,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,SPP_WEST,1,0,9.21,None,7.33
+SPP_WEST_hydroelectric_pumped_storage_1,5,1,0,0,474,7347,0,0,0,0,53201,0,0,0,0,0.866,0.866,1,16,SPP_WEST,1,0.95,0,None,36.46
+SPP_N_battery_advanced_0,1,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,SPP_N,0,0.95,0,None,1
+SPP_NEBR_battery_advanced_0,2,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,SPP_NEBR,0,0.95,0,None,1
+SPP_SPS_battery_advanced_0,3,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,SPP_SPS,0,0.95,0,None,1
+SPP_WAUE_battery_advanced_0,4,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,SPP_WAUE,0,0.95,0,None,1
+SPP_WEST_battery_advanced_0,5,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,SPP_WEST,0,0.95,0,None,1

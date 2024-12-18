@@ -1,0 +1,9 @@
+Resource,Zone,New_Build,Existing_Cap_MW,Max_Cap_MW,Min_Cap_MW,Inv_Cost_per_MWyr,Fixed_OM_Cost_per_MWyr,Var_OM_Cost_per_MWh,Var_OM_Cost_per_MWh_In,Heat_Rate_MMBTU_per_MWh,Fuel,Cap_Size,Start_Cost_per_MW,Start_Fuel_MMBTU_per_MW,Up_Time,Down_Time,Ramp_Up_Percentage,Ramp_Dn_Percentage,Hydro_Energy_to_Power_Ratio,Min_Power,Reg_Max,Rsv_Max,Reg_Cost,Rsv_Cost,region,cluster,Max_Flexible_Demand_Delay,Max_Flexible_Demand_Advance,Flexible_Demand_Energy_Eff,CapRes_1
+ERC_REST_res_water_heat_1,2,0,843,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_REST,1,2,2,1,0
+ERC_WEST_res_water_heat_1,3,0,37.5,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_WEST,1,2,2,1,0
+ERC_REST_trans_light_duty_1,2,0,1975.1,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_REST,1,5,0,1,0
+ERC_WEST_trans_light_duty_1,3,0,87.8,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_WEST,1,5,0,1,0
+ERC_REST_res_space_heat_cool_1,2,0,4620,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_REST,1,1,1,1,0
+ERC_WEST_res_space_heat_cool_1,3,0,205.3,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_WEST,1,1,1,1,0
+ERC_REST_comm_space_heat_cool_1,2,0,2924.8,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_REST,1,1,1,1,0
+ERC_WEST_comm_space_heat_cool_1,3,0,130,0,0,0,0,0,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,ERC_WEST,1,1,1,1,0

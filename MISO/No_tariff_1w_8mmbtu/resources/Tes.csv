@@ -1,0 +1,11 @@
+Resource,Zone,Model,New_Build,Can_Retire,Existing_Cap_MW,Existing_Cap_MWh,Min_Cap_MW,Min_Cap_MWh,Inv_Cost_per_MWyr,Inv_Cost_per_MWhyr,Fixed_OM_Cost_per_MWyr,Fixed_OM_Cost_per_MWhyr,Var_OM_Cost_per_MWh,Var_OM_Cost_per_MWh_In,Self_Disch,Eff_Up,Eff_Down,Min_Duration,Max_Duration,region,cluster,Existing_Charge_Cap_MW,Inv_Cost_Charge_per_MWyr,Fixed_OM_Cost_Charge_per_MWyr,Ramp_Up_Percentage,Ramp_Dn_Percentage,Min_Power,TES_MWh_per_MMBtu,TES_Min_kMMBTU,Heat_Price_Per_MMBTU,Charge_Discharge_Ratio
+MIS_AMSO_LA_WOTA_TES,1,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_AR_TES,2,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_D_MS_TES,3,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_IA_MIDA_TES,4,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_IL_TES,5,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_INKY_TES,6,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_LMI_TES,7,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_MAPP_MNWI_TES,8,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_MO_TES,9,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3
+MIS_WUMS_TES,10,2,1,0,0,0,0,0,79778,0,20000,0,0,0,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,10,3

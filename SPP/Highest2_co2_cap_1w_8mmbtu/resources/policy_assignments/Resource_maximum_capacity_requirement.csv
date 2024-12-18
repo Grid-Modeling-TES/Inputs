@@ -1,0 +1,6 @@
+Resource,Max_Cap_1,Max_Cap_2,Max_Cap_3,Max_Cap_4,Max_Cap_5
+SPP_N_TES,1,0,0,0,0
+SPP_NEBR_TES,0,1,0,0,0
+SPP_SPS_TES,0,0,1,0,0
+SPP_WAUE_TES,0,0,0,1,0
+SPP_WEST_TES,0,0,0,0,1

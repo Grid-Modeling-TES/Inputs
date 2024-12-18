@@ -1,0 +1,8 @@
+Resource,Zone,New_Build,Existing_Cap_MW,Max_Cap_MW,Min_Cap_MW,Inv_Cost_per_MWyr,Fixed_OM_Cost_per_MWyr,Var_OM_Cost_per_MWh,Heat_Rate_MMBTU_per_MWh,Fuel,Cap_Size,Start_Cost_per_MW,Start_Fuel_MMBTU_per_MW,Up_Time,Down_Time,Ramp_Up_Percentage,Ramp_Dn_Percentage,Hydro_Energy_to_Power_Ratio,Min_Power,Reg_Max,Rsv_Max,Reg_Cost,Rsv_Cost,region,cluster,LDS,CapRes_1
+SPP_N_conventional_hydroelectric_1,1,0,52,0,0,0,53201,0,8.84,None,52,0,0,0,0,0.5,0.5,1,0.034,0,0,0,0,SPP_N,1,0,0.8
+SPP_N_small_hydroelectric_1,1,0,0,0,0,0,53201,0,8.84,None,1,0,0,0,0,1,1,0,0.359,0,0,0,0,SPP_N,1,0,0.8
+SPP_NEBR_conventional_hydroelectric_1,2,0,86,0,0,0,53201,0,8.84,None,21.5,0,0,0,0,0.5,0.5,1,0.058,0,0,0,0,SPP_NEBR,1,0,0.8
+SPP_NEBR_small_hydroelectric_1,2,0,58.8,0,0,0,53201,0,8.84,None,4.52,0,0,0,0,1,1,0,0.122,0,0,0,0,SPP_NEBR,1,0,0.8
+SPP_WAUE_conventional_hydroelectric_1,4,0,2424,0,0,0,53201,0,8.85,None,67.33,0,0,0,0,0.5,0.5,1,0,0,0,0,0,SPP_WAUE,1,0,0.8
+SPP_WEST_conventional_hydroelectric_1,5,0,2008.4,0,0,0,53201,0,8.87,None,33.47,0,0,0,0,0.5,0.5,1,0.032,0,0,0,0,SPP_WEST,1,0,0.8
+SPP_WEST_small_hydroelectric_1,5,0,37.5,0,0,0,53201,0,8.84,None,3.75,0,0,0,0,1,1,0,0.262,0,0,0,0,SPP_WEST,1,0,0.8
