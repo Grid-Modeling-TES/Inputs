@@ -1,13 +1,12 @@
 # Grid Modeling TES: Inputs
-In this repository you will find the input data used to model TES across a variety of scenarios, in three grid operator terrories:
+In this repository you will find the input data used to model TES across a variety of scenarios, in two grid operator terrories:
 
-- Electric Reliability Council of Texas (ERCOT)
 - Midcontent Independent System Operator (MISO)
 - Southwest Power Pool (SPP)
 
 This input data is intended for use with the GenX fork found [here](https://github.com/Grid-modeling-TES/GenX.jl) and Julia 1.6.7.
 
-The data in this repo is organized by the 3 regions listed above. Within each region folder you will find 22 folders, each representing a specific scenario.
+The data in this repo is organized by the 2 regions listed above. Within each region folder you will find 22 folders, each representing a specific scenario.
 
 These scenarios are all outlined in the [paper]() describing this study.
 
@@ -18,13 +17,13 @@ These scenarios are all outlined in the [paper]() describing this study.
    activate "<path-to-GenX>/GenX.jl"
    ```
 4. To run a specific scenario in Julia, you have the option between a free solver (HiGHs) or a commercial solver (CPLEX), the latter of which requires a license to operate. We recommend using CPLEX because of the computational complexity of the model.
-  - To run the $1/W, $8/MMBTu scenario in ERCOT using CPLEX, launch Julia and enter the command:
+  - To run the $0.50/W-th, Ref NG scenario in SPP using CPLEX, launch Julia and enter the command:
     ```
-    include("<path-to-input-data/Inputs/ERCOT/1w_8mmbtu/Run.jl)
+    include("<path-to-input-data/Inputs/SPP/05w_refgas/Run.jl)
     ```
-  - To run the $1/W, $8/MMBTu scenario in ERCOT using HiGHs, launch Julia and enter the command:
+  - To run the $0.50/W-th, Ref NG scenario in SPP using HiGHs, launch Julia and enter the command:
     ```
-    include("<path-to-input-data>/Inputs/ERCOT/1w_8mmbtu/Run_highs.jl")
+    include("<path-to-input-data>/Inputs/SPP/05w_refgas/Run_highs.jl")
     ```
 
 ## Running multiple scenarios at once

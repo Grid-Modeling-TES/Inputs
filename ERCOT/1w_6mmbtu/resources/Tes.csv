@@ -1,4 +1,0 @@
-Resource,Zone,Model,New_Build,Can_Retire,Existing_Cap_MW,Existing_Cap_MWh,Min_Cap_MW,Min_Cap_MWh,Inv_Cost_per_MWyr,Inv_Cost_per_MWhyr,Fixed_OM_Cost_per_MWyr,Fixed_OM_Cost_per_MWhyr,Var_OM_Cost_per_MWh,Var_OM_Cost_per_MWh_In,Self_Disch,Eff_Up,Eff_Down,Min_Duration,Max_Duration,region,cluster,Existing_Charge_Cap_MW,Inv_Cost_Charge_per_MWyr,Fixed_OM_Cost_Charge_per_MWyr,Ramp_Up_Percentage,Ramp_Dn_Percentage,Min_Power,TES_MWh_per_MMBtu,TES_Min_kMMBTU,Heat_Price_Per_MMBTU,Charge_Discharge_Ratio
-ERC_PHDL_TES,1,2,1,0,0,0,0,0,79778,0,20000,0,0,5,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,7.5,3
-ERC_REST_TES,2,2,1,0,0,0,0,0,79778,0,20000,0,0,5,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,7.5,3
-ERC_WEST_TES,3,2,1,0,0,0,0,0,79778,0,20000,0,0,5,0,1,1,1,50,MA,0,0,26593,0,1,1,0,0.32565,0,7.5,3

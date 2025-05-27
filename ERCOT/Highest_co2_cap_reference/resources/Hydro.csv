@@ -1,3 +1,0 @@
-Resource,Zone,New_Build,Existing_Cap_MW,Max_Cap_MW,Min_Cap_MW,Inv_Cost_per_MWyr,Fixed_OM_Cost_per_MWyr,Var_OM_Cost_per_MWh,Heat_Rate_MMBTU_per_MWh,Fuel,Cap_Size,Start_Cost_per_MW,Start_Fuel_MMBTU_per_MW,Up_Time,Down_Time,Ramp_Up_Percentage,Ramp_Dn_Percentage,Hydro_Energy_to_Power_Ratio,Min_Power,Reg_Max,Rsv_Max,Reg_Cost,Rsv_Cost,region,cluster,LDS,CapRes_1
-ERC_REST_conventional_hydroelectric_1,2,0,483,0,0,0,53201,0,8.85,None,21.96,0,0,0,0,0.5,0.5,1,0,0,0,0,0,ERC_REST,1,0,0.8
-ERC_REST_small_hydroelectric_1,2,0,19.6,0,0,0,53201,0,8.84,None,1.23,0,0,0,0,1,1,0,0.503,0,0,0,0,ERC_REST,1,0,0.8

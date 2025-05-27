@@ -1,7 +1,0 @@
-Resource,Zone,Model,New_Build,Can_Retire,Existing_Cap_MW,Existing_Cap_MWh,Min_Cap_MW,Min_Cap_MWh,Inv_Cost_per_MWyr,Inv_Cost_per_MWhyr,Fixed_OM_Cost_per_MWyr,Fixed_OM_Cost_per_MWhyr,Var_OM_Cost_per_MWh,Var_OM_Cost_per_MWh_In,Self_Disch,Eff_Up,Eff_Down,Min_Duration,Max_Duration,region,cluster,CapRes_1,Heat_Rate_MMBTU_per_MWh,Fuel,Cap_Size
-ERC_PHDL_batteries_1,1,1,0,0,200,800,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,ERC_PHDL,1,0,9.21,None,200
-ERC_REST_batteries_1,2,1,0,0,2666.9,7198.1,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,ERC_REST,1,0,9.32,None,56.74
-ERC_WEST_batteries_1,3,1,0,0,1737.5,5259.3,0,0,0,0,6063,0,0,0,0,0.92,0.92,1,10,ERC_WEST,1,0,9.27,None,37.77
-ERC_PHDL_battery_advanced_0,1,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,ERC_PHDL,0,0.95,0,None,1
-ERC_REST_battery_advanced_0,2,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,ERC_REST,0,0.95,0,None,1
-ERC_WEST_battery_advanced_0,3,1,1,0,0,0,0,0,13630,15540,20877,0,0,0,0,0.92,0.92,1,10,ERC_WEST,0,0.95,0,None,1
